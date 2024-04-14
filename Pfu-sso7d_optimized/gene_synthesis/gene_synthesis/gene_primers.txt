@@ -1,0 +1,5 @@
+
+gene_primer                                                           Tm                       Tm-Tm_mean          
+
+sense_gene_primer:   ATGATTCTGGATGTCGATTACATC                         50.85                    2.75                
+antisense_gene_primer:   TTATTTTTTTTGTTTTTCCAGCAT                     47.49                    6.11                
